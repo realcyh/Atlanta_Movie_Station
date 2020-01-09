@@ -11,7 +11,7 @@ public class DBManager {
             "&useSSL=false&allowPublicKeyRetrieval=true";
     public static final String name = "com.mysql.cj.jdbc.Driver";
     public static final String username = "root";
-    public static final String password = "19970911";
+    public static final String password = "cs4400";
 
     public  Connection connection = null;
 
